@@ -168,3 +168,11 @@ A visualized ranking of each team's current Elo strength rating:
 
 
 ![Elo Rating Chart](out/Elo评分图.png) 
+
+---
+
+## Contributing
+
+Feel free to submit Issues and Pull Requests to improve this project!
+
+⭐ If this project has been helpful to you, please give it a star! Thank you!
