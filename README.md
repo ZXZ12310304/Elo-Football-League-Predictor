@@ -95,7 +95,7 @@ All generated charts (`.png`) and CSV files will be saved in the `out/` director
 
 ---
 
-## ⚙️ Model and Method Details
+##  Model and Method Details
 
 ### 1. Data Preprocessing (`preprocess.py`)
 -   **Field Standardization**: Replaces the Chinese headers in `data.csv` with English.
@@ -165,5 +165,6 @@ Comparison of each team's current points with their predicted final points:
 
 #### Elo Rating Chart
 A visualized ranking of each team's current Elo strength rating:
+
 
 ![Elo Rating Chart](out/Elo评分图.png) 
